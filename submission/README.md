@@ -122,6 +122,6 @@ Manual corrections include .env updates, DB fixes, and UI adjustments.
 
 Project fully completed and ready for submission.
 
-## 👤 Author
+## 👤 Team
 
-Nagulagam Chanakya
+N.Chanakya,B.Dinesh,Jeshwith

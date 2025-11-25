@@ -1,0 +1,24 @@
+AI Assistance Used:
+
+Tools: ChatGPT 5.1  
+Purpose: Code generation, debugging, documentation.
+
+Prompts Used:
+- Build a full-stack contact system
+- Fix database/JWT errors
+- Generate full code for backend & frontend
+- Create admin and user panels
+- Prepare README and submission folder
+
+AI Helped In:
+- Writing backend server.js
+- Writing frontend React components
+- Debugging MySQL errors
+- Creating .env, sql-schema
+- Building admin panel
+- Documentation
+
+Manual Corrections:
+- Updated .env with correct DB credentials
+- Fixed table missing issues
+- Restarted backend for applying changes
